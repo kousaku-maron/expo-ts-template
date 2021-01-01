@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "shakey_client",
-    "slug": "shakey_client",
+    "name": "appname",
+    "slug": "appname",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
